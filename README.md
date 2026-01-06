@@ -9,28 +9,6 @@
 
 </div>
 
----
-
-## 🚀 О мне
-
-```js
-const PridXD = {
-    location: "Russia 🇷🇺",
-    languages: ["C", "Assembler", "JavaScript", "Kotlin", "Java", "Python"],
-    interests: [
-        "🎮 Game Development",
-        "🤖 AI & Machine Learning",
-        "🧊 Minecraft Modding",
-        "⚛️ Quantum & Digital Physics",
-        "🎵 Music & Audio Engineering"
-    ],
-    currentFocus: "Building 3D game engines & training LLMs",
-    funFact: "Arch Linux btw 😎"
-};
-```
-
----
-
 ## 💻 Технологический стек
 
 <div align="center">
@@ -59,53 +37,6 @@ const PridXD = {
 
 ---
 
-## 📊 GitHub Статистика
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnaZII&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&icon_color=00d9ff&text_color=cdd6f4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnaZII&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&text_color=cdd6f4"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KnaZII&theme=tokyonight&hide_border=true&background=1e1e2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=00d9ff&sideNums=cdd6f4)](https://github.com/KnaZII)
-
-</div>
-
----
-
-## 📈 Активность
-
-<div align="center">
-
-[![KnaZII's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KnaZII&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=00d9ff&line=00d9ff&point=cdd6f4&area=true&area_color=00d9ff)](https://github.com/KnaZII)
-
-</div>
-
----
-
-## 🏆 GitHub Трофеи
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KnaZII&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/KnaZII)
-
-</div>
-
----
-
-## 🎯 Текущие проекты
-
-- 🎮 **3D Game Engine** - Разработка собственного игрового движка на C
-- 🤖 **LLM Training** - Обучение и fine-tuning языковых моделей
-- 🧊 **Minecraft Plugins** - Создание кастомных плагинов для серверов 1.21.4
-- ⚡ **Frontend Libraries** - Анимационные библиотеки на JS (GSAP)
-- 🎵 **Audio Processing** - 8-bit ретро звуковые эффекты для игр
-
----
-
 ## 📫 Связаться со мной
 
 <div align="center">
@@ -117,21 +48,5 @@ const PridXD = {
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Случайная цитата для разработчиков
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Мои коммиты
-
-![snake gif](https://github.com/KnaZII/KnaZII/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-**⭐️ Если вам нравятся мои проекты — поставьте звезду!**
-
-![](https://hit.yhype.me/github/profile?user_id=156420297)
 
 </div>
