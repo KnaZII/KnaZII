@@ -48,8 +48,6 @@ desktop software, and low-level systems programming.
 | Project | What it is | Technologies |
 |---|---|---|
 | [AxOS](https://github.com/KnaZII/AxOS) | Experimental 32-bit operating system with a bootloader, kernel, console, multitasking, interrupts, and a simple FAT/VFS layer | C, x86 Assembly, Make, NASM, QEMU |
-| [TrainingAI](https://github.com/KnaZII/TrainingAI) | Scripts and a chat interface for training and using language models, including AMD/DirectML workflows | Python, PyTorch, Transformers, PEFT |
-| [AxClient](https://github.com/KnaZII/AxClient) | Native Windows desktop client built with the Win32 API and WebSocket support | C++17, CMake, WinHTTP, GDI+ |
 | [AxEvent](https://github.com/KnaZII/AxEvent) | Paper plugin for automated server events with boss bars and notifications | Kotlin, Paper API, Maven |
 | [PridEconomy](https://github.com/KnaZII/PridEconomy) | Economy plugin targeting the Minecraft 1.16 server ecosystem | Kotlin, Spigot API, Maven |
 | [PridPass](https://github.com/KnaZII/PridPass) | Minecraft pass plugin with Paper/Folia compatibility and Adventure-based text | Kotlin, Paper API, Folia, Adventure |
