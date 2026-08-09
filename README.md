@@ -1,52 +1,72 @@
 <div align="center">
 
-# 👋 Привет! Я Петр (PridXD)
+# Hi, I'm KnaZII 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Программист+энтузиаст;Game+Developer;AI+%26+ML+Researcher;Minecraft+Modder" alt="Typing SVG" />
+### Software developer · Axis developer
 
-[![GitHub followers](https://img.shields.io/github/followers/KnaZII?style=for-the-badge&logo=github&labelColor=1e1e2e&color=00d9ff)](https://github.com/KnaZII)
-[![Profile Views](https://komarev.com/ghpvc/?username=KnaZII&style=for-the-badge&color=00d9ff&labelColor=1e1e2e)](https://github.com/KnaZII)
+I build projects across machine learning, game-server development,
+desktop software, and low-level systems programming.
+
+[![GitHub](https://img.shields.io/badge/GitHub-KnaZII-181717?style=for-the-badge&logo=github)](https://github.com/KnaZII)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KnaZISY)
 
 </div>
 
-## 💻 Технологический стек
+## About me
 
-<div align="center">
+- Developer in the **Axis** organization
+- Working with **machine learning and Python tooling**
+- Building **Minecraft server plugins** with Java, Kotlin, Paper, and Spigot
+- Exploring **systems programming** with C, C++, Rust, and x86 Assembly
+- Interested in operating systems, desktop applications, and developer infrastructure
+
+## Tech stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### AI & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### Tools and platforms
 
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Paper](https://img.shields.io/badge/Paper_API-FFFFFF?style=flat-square&logo=minecraft&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+## Selected projects
 
-## 📫 Связаться со мной
+| Project | What it is | Technologies |
+|---|---|---|
+| [AxOS](https://github.com/KnaZII/AxOS) | Experimental 32-bit operating system with a bootloader, kernel, console, multitasking, interrupts, and a simple FAT/VFS layer | C, x86 Assembly, Make, NASM, QEMU |
+| [TrainingAI](https://github.com/KnaZII/TrainingAI) | Scripts and a chat interface for training and using language models, including AMD/DirectML workflows | Python, PyTorch, Transformers, PEFT |
+| [AxClient](https://github.com/KnaZII/AxClient) | Native Windows desktop client built with the Win32 API and WebSocket support | C++17, CMake, WinHTTP, GDI+ |
+| [AxEvent](https://github.com/KnaZII/AxEvent) | Paper plugin for automated server events with boss bars and notifications | Kotlin, Paper API, Maven |
+| [PridEconomy](https://github.com/KnaZII/PridEconomy) | Economy plugin targeting the Minecraft 1.16 server ecosystem | Kotlin, Spigot API, Maven |
+| [PridPass](https://github.com/KnaZII/PridPass) | Minecraft pass plugin with Paper/Folia compatibility and Adventure-based text | Kotlin, Paper API, Folia, Adventure |
+
+## Current interests
+
+```text
+Machine Learning  ·  Game Server Systems  ·  Operating Systems
+Desktop Software  ·  Low-Level Programming  ·  Developer Tools
+```
+
+## Contact
+
+The easiest way to reach me is on [Telegram](https://t.me/KnaZISY).
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@KnaZISY-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KnaZISY)
-[![Discord](https://img.shields.io/badge/Discord-knazisy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KnaZII-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnaZII)
-
-</div>
-
----
+<sub>Building, learning, and turning ideas into working software.</sub>
 
 </div>
