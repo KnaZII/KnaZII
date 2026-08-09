@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm KnaZII 👋
+# Hi, I'm PridXD 👋
 
 ### Software developer · Axis developer
 
